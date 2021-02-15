@@ -8,6 +8,8 @@ int main()
     std::cout << "Hello VisualStudio Git!\n";
     std::cout << "リモートリポジトリで変更\n";
     std::cout << "リモートリポジトリで変更\n";
+    
+    std::cout << "コンフリクト\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
